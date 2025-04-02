@@ -1,0 +1,15 @@
+Timestamp,Logger,Level,Message,Date,Time
+2025-04-02 12:00:54.567,__main__,INFO,Logging setup complete!,2025-04-02,12:00:54.567000
+2025-04-02 12:01:07.598,__main__,INFO,Addition was successful,2025-04-02,12:01:07.598000
+2025-04-02 12:01:07.599,__main__,INFO,Subtraction was successful,2025-04-02,12:01:07.599000
+2025-04-02 12:01:07.600,__main__,INFO,Multiplication was successful,2025-04-02,12:01:07.600000
+2025-04-02 12:01:07.601,__main__,INFO,Division was successful,2025-04-02,12:01:07.601000
+2025-04-02 12:01:29.034,__main__,INFO,Logging setup complete!,2025-04-02,12:01:29.034000
+2025-04-02 12:01:35.564,__main__,DEBUG,Add: 20+10 = 30,2025-04-02,12:01:35.564000
+2025-04-02 12:01:35.564,__main__,INFO,Addition was successful,2025-04-02,12:01:35.564000
+2025-04-02 12:01:35.565,__main__,DEBUG,Sub: 20-10 = 10,2025-04-02,12:01:35.565000
+2025-04-02 12:01:35.565,__main__,INFO,Subtraction was successful,2025-04-02,12:01:35.565000
+2025-04-02 12:01:35.565,__main__,DEBUG,Mul: 20*10 = 200,2025-04-02,12:01:35.565000
+2025-04-02 12:01:35.570,__main__,INFO,Multiplication was successful,2025-04-02,12:01:35.570000
+2025-04-02 12:01:35.571,__main__,DEBUG,Div: 20/10 = 2.0,2025-04-02,12:01:35.571000
+2025-04-02 12:01:35.571,__main__,INFO,Division was successful,2025-04-02,12:01:35.571000
